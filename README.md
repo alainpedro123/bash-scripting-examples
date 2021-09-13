@@ -18,16 +18,14 @@
 16.	Using the "HOME" variable, write a script that displays the user's home path and lists all the existing files in there
 17.	Using the "USER" variable, echo the current username
 18. Using the "HOSTNAME" variable, echo the current hostname
-21.	Echo $HOME with Escape to Avoid Expansion
-22.	Writing to file in HOME Directory Using HOME Environment Variable
-23.	Simple Touch Command
-24.	Create a Symbol Link, Write To Linked File, Cat file
-25.	Chmod Command, Make Executable
-26.	Chmod Command, Make Not-Writable, Try to Write to it
-27.	Chown File To Different User, Run ls before, after
-28.	Underscore Variable, Touch File, Use Underscore Variable to Append to It
-29.	Let Command Arithmetic
-30.	4 Basic Operators, Add, Subtract, Multiply, Divide 
+19.	Echo $HOME with Escape to Avoid Expansion
+20.	Writing to file in HOME Directory Using HOME Environment Variable
+21.	Write a script that create a new file and lists all the existing items in the current directory
+22.	Using the "Link" command createa copy of an existing file, Write a messago into it, and display the file content
+23.	Define an underscore variable with a message, create a new file, use underscore variable to Append to this new file and display.
+24.	Let Command Arithmetic
+25.	Using "expr" perform 4 Basic Operators: Add, Subtract, Multiply, Divide 
+
 31.	Increment a variable 3 times with Increment Operator 
 32.	Decrement a variable 3 times with Decrement Operator 
 33.	Echo Number Modulus Second Number 
