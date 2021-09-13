@@ -25,80 +25,55 @@
 23.	Define an underscore variable with a message, create a new file, use underscore variable to Append to this new file and display.
 24.	Let Command Arithmetic
 25.	Using "expr" perform 4 Basic Operators: Add, Subtract, Multiply, Divide 
-
-31.	Increment a variable 3 times with Increment Operator 
-32.	Decrement a variable 3 times with Decrement Operator 
-33.	Echo Number Modulus Second Number 
-34.	Echo Number to Exponent of Second Number 
-35.	Expr Command for Math 
-36.	Double Parenthesis for Math 
-37.	Double Parenthesis with Dollar Operator Assign to Variable 
-38.	Multiplication has Precedence Over Addition Regardless of Order 
-39.	Combine Two Strings In One Line With Variables 
-40.	Combine Three Strings In One Line With Variables 
-41.	Plus Equal Operator Combine Strings 
-42.	Create Multi-Line String Variable with HEREDOC 
-43.	Cat Multi-Line HEREDOC Text 
-44.	If Conditional Statement 
-45.	Logical And in Conditional Statement 
-46.	Logical Or in Conditional Statement 
-47.	If Elif Else Conditional Statement 
-48.	Nesting If Conditions
-49.	Equal vs Double Equal Operator
-50.	Test Not Equal Strings
-51.	Test Two Strings Before or After alphabetically
-52.	Test String is Null
-53.	Test String is Not-Null
-54.	Test Numerical Comparisons Greater then, Less then
-55.	Test Numerical Compare Greater Then Or Equal, Less Than Or Equal
-56.	Test Compare Numbers Are Equal
-57.	Test Compare Numbers Are Not-equal
-58.	Test File Exists
-59.	Test File Is Not Zero Size
-60.	Test File Is A Directory
-61.	File Is A Symbolic Link
-62.	Test File Has Read Permission
-63.	Test File Has Write Permission
-64.	Test File Has Execute Permission
-65.	Case Conditional Statement With Numbers
-66.	Case Conditional Statement With Strings
-67.	Case Conditional Statement With Wildcards
-68.	Execute a Command With Backticks
-69.	Execute a Command in a Dollar Parenthesis Variable
-70.	Execute a Command and Capture STDOUT
-71.	Execute a Command And Capture STDERR
-72.	Execute a Command And Capture Return Code
-73.	Bash Exec Command Hello World
-74.	Eval Command
-75.	For Loop List of Values
-76.	For Loop on Range of Numbers
-77.	For Loop Output of Command
-78.	For Loop Files in Directory
-79.	For Loop with Conditional Break
-80.	For Loop with Conditional Continue
-81.	While Loop With Integer Counter
-82.	Until Loop Based on File Size
-83.	Create an Array Variable Access by Index
-84.	Create an Associative Array Variable Access by Index
-85.	Accessing Array Members with Loop
-86.	Time a Command
-87.	Print Date
-88.	Print Date With Format
-89.	Print Seconds Elapsed for Block of Code
-90.	Read Text From File, Print to Screen
-91.	Read Text From File, If Condition Print to Screen
-92.	Basic Read Command
-93.	Read Command Into Array
-94.	Read Command with Delimiter
-95.	Read Command with Timeout
-96.	Menu Option with Select Command 
-97.	Menu Option With Select Command From Array Variable
-98.	Split String By Space
-99.	Split String By Custom Delimiter
-100.	Split String into Array Variable
-101.	Split String by Multi-Byte Delimiter
-102.	Parse Command Line Options with Position
-103.	Parse Command Line Options With Shift Command
+26.	Increment a variable 3 times with Increment Operator 
+27.	Decrement a variable 3 times with Decrement Operator 
+28.	Combine Strings In One Line With Variables 
+29.	Create Multi-Line String Variable with HEREDOC 
+30.	Cat Multi-Line HEREDOC Text 
+31.	Test if File exists
+32.	Test if File is not zero size.
+33. Test if File is a Directory
+34.	Test if a file is A Symbolic Link
+35.	Test if a File has Permission: Read, Write, Execute
+.	Case Conditional Statement With Numbers
+.	Case Conditional Statement With Strings
+.	Case Conditional Statement With Wildcards
+.	Execute a Command With Backticks
+.	Execute a Command in a Dollar Parenthesis Variable
+.	Execute a Command and Capture STDOUT
+.	Execute a Command And Capture STDERR
+.	Execute a Command And Capture Return Code
+.	Bash Exec Command Hello World
+.	Eval Command
+.	For Loop List of Values
+.	For Loop on Range of Numbers
+.	For Loop Output of Command
+.	For Loop Files in Directory
+.	For Loop with Conditional Break
+.	For Loop with Conditional Continue
+.	While Loop With Integer Counter
+.	Until Loop Based on File Size
+.	Create an Array Variable Access by Index
+.	Create an Associative Array Variable Access by Index
+.	Accessing Array Members with Loop
+.	Time a Command
+.	Print Date
+.	Print Date With Format
+.	Print Seconds Elapsed for Block of Code
+.	Read Text From File, Print to Screen
+.	Read Text From File, If Condition Print to Screen
+.	Basic Read Command
+.	Read Command Into Array
+.	Read Command with Delimiter
+.	Read Command with Timeout
+.	Menu Option with Select Command 
+.	Menu Option With Select Command From Array Variable
+.	Split String By Space
+.	Split String By Custom Delimiter
+1.	Split String into Array Variable
+1.	Split String by Multi-Byte Delimiter
+1.	Parse Command Line Options with Position
+1.	Parse Command Line Options With Shift Command
 104.	Parse Command Line Using GetOpt
 105.	Read Password from Stdin, Without Printing it
 106.	Pipe Command Example
