@@ -35,45 +35,46 @@
 33. Test if File is a Directory
 34.	Test if a file is A Symbolic Link
 35.	Test if a File has Permission: Read, Write, Execute
-.	Case Conditional Statement With Numbers
-.	Case Conditional Statement With Strings
-.	Case Conditional Statement With Wildcards
-.	Execute a Command With Backticks
-.	Execute a Command in a Dollar Parenthesis Variable
-.	Execute a Command and Capture STDOUT
-.	Execute a Command And Capture STDERR
-.	Execute a Command And Capture Return Code
-.	Bash Exec Command Hello World
-.	Eval Command
-.	For Loop List of Values
-.	For Loop on Range of Numbers
-.	For Loop Output of Command
-.	For Loop Files in Directory
-.	For Loop with Conditional Break
-.	For Loop with Conditional Continue
-.	While Loop With Integer Counter
-.	Until Loop Based on File Size
-.	Create an Array Variable Access by Index
-.	Create an Associative Array Variable Access by Index
-.	Accessing Array Members with Loop
-.	Time a Command
-.	Print Date
-.	Print Date With Format
-.	Print Seconds Elapsed for Block of Code
-.	Read Text From File, Print to Screen
-.	Read Text From File, If Condition Print to Screen
-.	Basic Read Command
-.	Read Command Into Array
-.	Read Command with Delimiter
-.	Read Command with Timeout
-.	Menu Option with Select Command 
-.	Menu Option With Select Command From Array Variable
-.	Split String By Space
-.	Split String By Custom Delimiter
-1.	Split String into Array Variable
-1.	Split String by Multi-Byte Delimiter
-1.	Parse Command Line Options with Position
-1.	Parse Command Line Options With Shift Command
+36.	Case Conditional Statement With Numbers
+37.	Case Conditional Statement With Strings
+38.	Case Conditional Statement With Wildcards (user input)
+39.	Execute a Command And Capture STDERR (standard error) into a new file
+40.	Execute a Command And Capture the return Code
+41.	Bash Exec Command Hello World
+42.	For Loop - iterating over a sequence of numbers (from 1 to 10)
+43. For loop - Read a content of a file Using
+44. For loop - List all the files in the same directory
+45. For loop - Changing the names of the files
+46. For loop - iterating through an array using counter variable
+47.	For loop with Conditional Break
+48.	For loop with Conditional Continue
+49.	While loop - print hello once and break from the loop
+50. While loop - Print numbers from 1 to 5
+51. While loop - Reading through a file line by line
+52.	Until loop - copy content into a new file until it's greater the 2 Kb
+
+
+51.	Create an Array Variable Access by Index
+52.	Create an Associative Array Variable Access by Index
+53.	Accessing Array Members with Loop
+54.	Time a Command
+55.	Print Date
+56.	Print Date With Format
+57.	Print Seconds Elapsed for Block of Code
+58.	Read Text From File, Print to Screen
+59.	Read Text From File, If Condition Print to Screen
+60.	Basic Read Command
+61.	Read Command Into Array
+62.	Read Command with Delimiter
+63.	Read Command with Timeout
+64.	Menu Option with Select Command 
+65.	Menu Option With Select Command From Array Variable
+66.	Split String By Space
+67.	Split String By Custom Delimiter
+68.	Split String into Array Variable
+69.	Split String by Multi-Byte Delimiter
+70.	Parse Command Line Options with Position
+71.	Parse Command Line Options With Shift Command
 104.	Parse Command Line Using GetOpt
 105.	Read Password from Stdin, Without Printing it
 106.	Pipe Command Example
