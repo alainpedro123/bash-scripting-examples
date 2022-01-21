@@ -52,126 +52,124 @@
 50. While loop - Print numbers from 1 to 5
 51. While loop - Reading through a file line by line
 52.	Until loop - copy content into a new file until it's greater the 2 Kb
-
-
-51.	Create an Array Variable Access by Index
-52.	Create an Associative Array Variable Access by Index
-53.	Accessing Array Members with Loop
-54.	Time a Command
-55.	Print Date
-56.	Print Date With Format
-57.	Print Seconds Elapsed for Block of Code
-58.	Read Text From File, Print to Screen
-59.	Read Text From File, If Condition Print to Screen
-60.	Basic Read Command
-61.	Read Command Into Array
-62.	Read Command with Delimiter
-63.	Read Command with Timeout
-64.	Menu Option with Select Command 
-65.	Menu Option With Select Command From Array Variable
-66.	Split String By Space
-67.	Split String By Custom Delimiter
-68.	Split String into Array Variable
-69.	Split String by Multi-Byte Delimiter
-70.	Parse Command Line Options with Position
-71.	Parse Command Line Options With Shift Command
-104.	Parse Command Line Using GetOpt
-105.	Read Password from Stdin, Without Printing it
-106.	Pipe Command Example
-107.	Cat Pipe Word Count Example
-108.	echo to bc Command for Math Expression Simple
-109.	echo to bc Command for Math Expression More Complex
-110.	Function Prints Common Text, Call Multiple Times
-111.	Function Returns a String
-112.	Function Takes Params, Returns Sum
-113.	Tput Command to Print String
-114.	Tput Command to Print Number
-115.	Tput to Clear Terminal
-116.	Tput to Print Attributes of Terminal Simple
-117.	Tput to Print Attributes of Terminal More Complex
-118.	Assign String Variable with Declare
-119.	Check If Variable Created with Declare
-120.	n Option for Declare to Nameref Alias
-121.	Forcing Variable to Integer with Declare
-122.	Forcing Case with Declare
-123.	Readonly Variables with Declare
-124.	Indexed Arrays with Declare
-125.	Associative Arrays with Declare
-126.	Define a Function if Not Already Defined Using Declare 
-127.	Automatically Answer Question with yes Command
-128.	Use And Operator to Run Second Command Only if First Succeeds
-129.	Use Or Operator to Run Second Command Only if First Fails
-130.	xargs to operate on all files in directory
-131.	Wait For Another Command to Complete
-132.	Combine Kill and Wait Commands
-133.	Star Wildcard on File Selection
-134.	Question Mark Wildcard on File Selection
-135.	Square Bracket on File Selection
-136.	Parenthesis and Pipe for File Selection Options
-137.	Brace Expansion Comma Seperated List
-138.	Brace Expansion Range
-139.	Brace Expansion with Preamble
-140.	Operating on List of Files with Brace Expansion
-141.	Reference Home Directory with Tilde
-142.	Parameter Expansion for Printing Constant or Variable if Unset
-143.	Substring Expansion for Printing Part of String
-144.	Parameter Expansion for Assigning Constant to Variable if Unset
-145.	Check If File Executable, Set If Not
-146.	Check If File Is Owned By User, Set If Not
-147.	wc To Count Lines In A File
-148.	wc to Count Characters in a File
-149.	Head Command With Default Args
-150.	Head Command to Print First 100 Lines
-151.	Tail Command With Default Args
-152.	Tail Command to Print Last 100 Lines
-153.	Find Command to Locate Matching Pattern Files
-154.	Find Command to Locate Files Based on Date
-155.	cut Command to Parse Delimited Columns of Data
-156.	grep Command to Search for Pattern
-157.	grep Command to Search for Lack of Pattern
-158.	grep Command to Search for Case Insensitve Pattern
-159.	grep Command with Wild Cards
-160.	grep Command to Search All Files in Directory Recursive
-161.	grep Command to Search for File in a Directory Recursively
-162.	awk Split On Whitespace
-163.	awk Print Last Field in Each Line
-164.	awk Print Only Match of Regex
-165.	awk With If Else Condition
-166.	awk With Ternary Operator
-167.	sed To Replace Matching Text
-168.	sed To Replace Second Instance of Matching Text on Line
-169.	sed to Delete Specific Lines
-170.	sed to Add a Line Before Matched Line
-171.	sed to Add a Line After Matched Line
-172.	Sort Data in File with sort Command
-173.	Sort Data Ignore Case
-174.	Sort Data numerically
-175.	Print Unique Data with uniq Command
-176.	Count Unique Lines in File with Sort, Uniq, and wc
-177.	Convert Data to Uppercase with tr
-178.	Convert Data to Lowercase with tr
-179.	Create a tar File
-180.	Create a Zipped Tar File
-181.	Unzip a Compressed Tar File
-182.	Parse JSON File with jq
-183.	Print Specific Field in JSON with jq
-184.	Print Cpu Info With Pseudo Filesystem
-185.	Print Mem Info With Psuedo Filesystem
-186.	Print Mounts With Psuedo Filesystem
-187.	Print Network Stats With Psuedo Filesystem
-188.	Print Disk Usage with du
-189.	Print Disk Usage Human Readable with du
-190.	Create File of Specified Size with dd
-191.	Time Disk Writing with dd and time
-192.	Send a Mail with mail Program
-193.	Send a Mail with mail Program Change Subject
-194.	Send a Mail with mail Program to Multiple Recipients
-195.	Send a Mail with mail Program to CC and BCC list
-196.	Print Mounts Usage with df
-197.	Send a Mail with mail Program with Encoded Attachment
-198.	Download Webpage with Curl
-199.	Post to HTTP with Curl
-200.	Put Command in Background
-201.	Resume Command From Background
-202.	Execute Last Command Again with Bang Bang
-203.	tee Command to Print to File and Screen
+53. Create an Array Variable Access by Index
+54. Create an Associative Array Variable Access by Index
+55. Accessing Array Members with Loop
+56. Time a Command
+57. Print Date
+58. Print Date With Format
+59. Print Seconds Elapsed for Block of Code
+60. Read Text From File, Print to Screen
+61. Read Text From File, If Condition Print to Screen
+62. Basic Read Command
+63. Read Command Into Array
+64. Read Command with Delimiter
+65. Read Command with Timeout
+66. Menu Option with Select Command
+67. Menu Option With Select Command From Array Variable
+68. Split String By Space
+69. Split String By Custom Delimiter
+70. Split String into Array Variable
+71. Split String by Multi-Byte Delimiter
+72. Parse Command Line Options with Position
+73. Parse Command Line Options With Shift Command
+74. Parse Command Line Using GetOpt
+75. Read Password from Stdin, Without Printing it
+76. Pipe Command Example
+77. Cat Pipe Word Count Example
+78. echo to bc Command for Math Expression Simple
+79. echo to bc Command for Math Expression More Complex
+80. Function Prints Common Text, Call Multiple Times
+81. Function Returns a String
+82. Function Takes Params, Returns Sum
+83. Tput Command to Print String
+84. Tput Command to Print Number
+85. Tput to Clear Terminal
+86. Tput to Print Attributes of Terminal Simple
+87. Tput to Print Attributes of Terminal More Complex
+88. Assign String Variable with Declare
+89. Check If Variable Created with Declare
+90. n Option for Declare to Nameref Alias
+91. Forcing Variable to Integer with Declare
+92. Forcing Case with Declare
+93. Readonly Variables with Declare
+94. Indexed Arrays with Declare
+95. Associative Arrays with Declare
+96. Define a Function if Not Already Defined Using Declare
+97. Automatically Answer Question with yes Command
+98. Use And Operator to Run Second Command Only if First Succeeds
+99. Use Or Operator to Run Second Command Only if First Fails
+100. xargs to operate on all files in directory
+101. Wait For Another Command to Complete
+102. Combine Kill and Wait Commands
+103. Star Wildcard on File Selection
+104. Question Mark Wildcard on File Selection
+105. Square Bracket on File Selection
+106. Parenthesis and Pipe for File Selection Options
+107. Brace Expansion Comma Seperated List
+108. Brace Expansion Range
+109. Brace Expansion with Preamble
+110. Operating on List of Files with Brace Expansion
+111. Reference Home Directory with Tilde
+112. Parameter Expansion for Printing Constant or Variable if Unset
+113. Substring Expansion for Printing Part of String
+114. Parameter Expansion for Assigning Constant to Variable if Unset
+115. Check If File Executable, Set If Not
+116. Check If File Is Owned By User, Set If Not
+117. wc To Count Lines In A File
+118. wc to Count Characters in a File
+119. Head Command With Default Args
+120. Head Command to Print First 100 Lines
+121. Tail Command With Default Args
+122. Tail Command to Print Last 100 Lines
+123. Find Command to Locate Matching Pattern Files
+124. Find Command to Locate Files Based on Date
+125. cut Command to Parse Delimited Columns of Data
+126. grep Command to Search for Pattern
+127. grep Command to Search for Lack of Pattern
+128. grep Command to Search for Case Insensitve Pattern
+129. grep Command with Wild Cards
+130. grep Command to Search All Files in Directory Recursive
+131. grep Command to Search for File in a Directory Recursively
+132. awk Split On Whitespace
+133. awk Print Last Field in Each Line
+134. awk Print Only Match of Regex
+135. awk With If Else Condition
+136. awk With Ternary Operator
+137. sed To Replace Matching Text
+138. sed To Replace Second Instance of Matching Text on Line
+139. sed to Delete Specific Lines
+140. sed to Add a Line Before Matched Line
+141. sed to Add a Line After Matched Line
+142. Sort Data in File with sort Command
+143. Sort Data Ignore Case
+144. Sort Data numerically
+145. Print Unique Data with uniq Command
+146. Count Unique Lines in File with Sort, Uniq, and wc
+147. Convert Data to Uppercase with tr
+148. Convert Data to Lowercase with tr
+149. Create a tar File
+150. Create a Zipped Tar File
+151. Unzip a Compressed Tar File
+152. Parse JSON File with jq
+153. Print Specific Field in JSON with jq
+154. Print Cpu Info With Pseudo Filesystem
+155. Print Mem Info With Psuedo Filesystem
+156. Print Mounts With Psuedo Filesystem
+157. Print Network Stats With Psuedo Filesystem
+158. Print Disk Usage with du
+159. Print Disk Usage Human Readable with du
+160. Create File of Specified Size with dd
+161. Time Disk Writing with dd and time
+162. Send a Mail with mail Program
+163. Send a Mail with mail Program Change Subject
+164. Send a Mail with mail Program to Multiple Recipients
+165. Send a Mail with mail Program to CC and BCC list
+166. Print Mounts Usage with df
+167. Send a Mail with mail Program with Encoded Attachment
+168. Download Webpage with Curl
+169. Post to HTTP with Curl
+170. Put Command in Background
+171. Resume Command From Background
+172. Execute Last Command Again with Bang Bang
+173. tee Command to Print to File and Screen
