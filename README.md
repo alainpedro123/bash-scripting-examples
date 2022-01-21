@@ -1,4 +1,4 @@
-## Bash Scripting Examples
+## Bash Scripting - Exercises
 
 1.	Simple Hello World Script
 2.	Echo Command Without Newlines
